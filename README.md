@@ -175,6 +175,9 @@ curl -G 'http://localhost:8428/api/v1/query' --data-urlencode 'query=OILCOINT_me
 * Так же приложены фотки Терминала , если вдруг возникнут проблемы, так же приложен скрин с самой виктории метрикс!!!
 ![photo_2024-10-26_13-09-33](https://github.com/user-attachments/assets/114124e2-629f-474c-b880-0ebd3233522e)
 
+![image](https://github.com/user-attachments/assets/9698ee24-f15b-4bcb-8821-4294623b5d65)
+
+
 
 Sudo docker compose up -d 
 ![Screenshot_1](https://github.com/user-attachments/assets/5810ab47-e6bc-4d58-8750-f697ee9e1e8a)
