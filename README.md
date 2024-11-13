@@ -177,16 +177,9 @@ curl -G 'http://localhost:8428/api/v1/query' --data-urlencode 'query=OILCOINT_me
 
 ![photo_2024-10-26_13-08-02](https://github.com/user-attachments/assets/2aded45b-89d0-4791-a52c-103de9048157)
 
-![photo_2024-10-26_13-07-44](https://github.com/user-attachments/assets/a7d244d0-e943-4ac2-ae68-ca9c1080324a)
+Sudo docker compose up -d 
+![Screenshot_1](https://github.com/user-attachments/assets/5810ab47-e6bc-4d58-8750-f697ee9e1e8a)
 
-![photo_2024-10-26_13-06-48](https://github.com/user-attachments/assets/83dacbd9-c0ed-4256-ba74-f7b04607ab79)
 
-![photo_2024-10-26_13-07-27](https://github.com/user-attachments/assets/93d28fc5-508d-4217-bf87-e3fff5623ff9)
-
-![photo_2024-10-26_13-07-02](https://github.com/user-attachments/assets/ef6abdd5-aaa8-4b07-96fc-5718fdb64e5d)
-
-![photo_2024-10-26_13-06-27](https://github.com/user-attachments/assets/cecabac1-9d4a-4901-95c6-b45223eb2c53)
-
-![photo_2024-10-26_13-06-07](https://github.com/user-attachments/assets/818fe40b-d068-4ba2-9031-c7f99ffd78ca)
 
 * 
