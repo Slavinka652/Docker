@@ -179,6 +179,13 @@ curl -G 'http://localhost:8428/api/v1/query' --data-urlencode 'query=OILCOINT_me
 Sudo docker compose up -d 
 ![Screenshot_1](https://github.com/user-attachments/assets/5810ab47-e6bc-4d58-8750-f697ee9e1e8a)
 
+![Screenshot_1](https://github.com/user-attachments/assets/74cf58ac-2a8a-4684-ba45-360bb4822f7c)
+
+
+sudo curl -L "https://github.com/docker/compose/releases/download/$COMVER/docker-compose-$(uname -s)-$(uname -m)" -o /usr/bin/docker-compose && \
+![Screenshot_2](https://github.com/user-attachments/assets/3aa7f941-2c23-4e11-91cd-96c0a09c22a8)
+
+
 
 
 * 
