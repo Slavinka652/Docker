@@ -188,6 +188,12 @@ Sudo docker compose up -d
 sudo curl -L "https://github.com/docker/compose/releases/download/$COMVER/docker-compose-$(uname -s)-$(uname -m)" -o /usr/bin/docker-compose && \
 ![Screenshot_2](https://github.com/user-attachments/assets/3aa7f941-2c23-4e11-91cd-96c0a09c22a8)
 
+![image](https://github.com/user-attachments/assets/30284a1e-b8c4-4aa5-84b2-66bbfcf49664)
+
+![image](https://github.com/user-attachments/assets/519eb7ba-528d-484a-93f5-a5b34b3183ea)
+
+
+
 
 
 
