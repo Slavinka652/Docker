@@ -192,6 +192,9 @@ sudo curl -L "https://github.com/docker/compose/releases/download/$COMVER/docker
 
 ![image](https://github.com/user-attachments/assets/519eb7ba-528d-484a-93f5-a5b34b3183ea)
 
+![image](https://github.com/user-attachments/assets/65600397-fab6-49a8-abf1-9ffc5d4f04c7)
+
+
 
 
 
